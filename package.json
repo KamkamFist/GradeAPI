@@ -1,0 +1,16 @@
+{
+  "name": "gradeapi",
+  "version": "1.0.0",
+  "description": "api dla ocen",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Kacper Dowejko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "pg": "^8.14.1"
+  }
+}
